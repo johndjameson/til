@@ -1,6 +1,9 @@
 Haml Tags
 =========
 
+Attributes
+----------
+
 You can argue an object into a tag.
 
 ```haml
