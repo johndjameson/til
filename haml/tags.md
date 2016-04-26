@@ -10,7 +10,7 @@ You can argue an object into a tag.
     src: 'https://example.com/image.jpg',
   }
 
-  %img{ options }
+%img{ options }
 ````
 
 You can’t define `class` inside the object, so you’ll need to define it inside the tag’s object.
@@ -22,5 +22,5 @@ You can’t define `class` inside the object, so you’ll need to define it insi
     src: 'https://example.com/image.jpg',
   }
 
-  %img{ options, class: 'db mbl mhc' }
+%img{ options, class: 'db mbl mhc' }
 ````
